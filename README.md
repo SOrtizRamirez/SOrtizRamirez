@@ -40,47 +40,50 @@
 
 ## <img src="assets/icon-brain.png" width="24" align="absmiddle" /> <code>01 / ABOUT ME</code>
 
+---
+
 Soy Sharon, **desarrolladora de software y psicóloga**. Combino el pensamiento analítico de la ingeniería con una mirada centrada en las personas.
 
 Me gusta crear soluciones útiles, comprender cómo funcionan los sistemas y mejorar cada proyecto mediante práctica, investigación y atención al detalle.
 
-<table border="1" bordercolor="#ff304f" cellpadding="10" cellspacing="0">
-<tr>
-<td width="50%" valign="top">
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-<img src="assets/icon-code.png" width="32" align="absmiddle" /> **THINK CRITICALLY**
+**01 · THINK CRITICALLY**
 
 Resolución de problemas, análisis y aprendizaje continuo.
 
 </td>
-<td width="50%" valign="top">
+    <td width="50%" valign="top">
 
-<img src="assets/icon-star.png" width="32" align="absmiddle" /> **BUILD WITH CARE**
+**02 · BUILD WITH CARE**
 
 Sistemas claros, mantenibles, seguros y útiles.
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
-<img src="assets/icon-brain.png" width="32" align="absmiddle" /> **UNDERSTAND PEOPLE**
+**03 · UNDERSTAND PEOPLE**
 
 Una perspectiva humana para resolver necesidades reales.
 
 </td>
-<td width="50%" valign="top">
+    <td width="50%" valign="top">
 
-<img src="assets/icon-chart.png" width="32" align="absmiddle" /> **KEEP EVOLVING**
+**04 · KEEP EVOLVING**
 
 Arquitectura, experiencia de usuario y ciberseguridad.
 
 </td>
-</tr>
+  </tr>
 </table>
 
-<img src="assets/about-side.png" alt="Independent cyber-goth portrait detail" width="100%" />
-
+<p align="center">
+  <img src="assets/about-side.png" alt="Sharon — dark anime portrait, crimson neon aesthetic" width="65%" />
+</p>
 </td>
 </tr>
 </table>
