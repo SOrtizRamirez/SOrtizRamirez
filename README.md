@@ -40,6 +40,10 @@
 
 ## <img src="assets/icon-brain.png" width="24" align="absmiddle" /> <code>01 / ABOUT ME</code>
 
+<!-- ABOUT ME — standalone, without the outer sidebar table -->
+
+## <code>01 / ABOUT ME</code>
+
 ---
 
 Soy Sharon, **desarrolladora de software y psicóloga**. Combino el pensamiento analítico de la ingeniería con una mirada centrada en las personas.
@@ -50,14 +54,14 @@ Me gusta crear soluciones útiles, comprender cómo funcionan los sistemas y mej
   <tr>
     <td width="50%" valign="top">
 
-**01 · THINK CRITICALLY**
+**01 // THINK CRITICALLY**
 
 Resolución de problemas, análisis y aprendizaje continuo.
 
 </td>
     <td width="50%" valign="top">
 
-**02 · BUILD WITH CARE**
+**02 // BUILD WITH CARE**
 
 Sistemas claros, mantenibles, seguros y útiles.
 
@@ -66,14 +70,14 @@ Sistemas claros, mantenibles, seguros y útiles.
   <tr>
     <td width="50%" valign="top">
 
-**03 · UNDERSTAND PEOPLE**
+**03 // UNDERSTAND PEOPLE**
 
 Una perspectiva humana para resolver necesidades reales.
 
 </td>
     <td width="50%" valign="top">
 
-**04 · KEEP EVOLVING**
+**04 // KEEP EVOLVING**
 
 Arquitectura, experiencia de usuario y ciberseguridad.
 
@@ -82,11 +86,8 @@ Arquitectura, experiencia de usuario y ciberseguridad.
 </table>
 
 <p align="center">
-  <img src="assets/about-side.png" alt="Sharon — dark anime portrait, crimson neon aesthetic" width="65%" />
+  <img src="assets/about-side.png" alt="Dark anime portrait in crimson neon style" width="65%" />
 </p>
-</td>
-</tr>
-</table>
 
 <p align="center"><img src="assets/separator.png" alt="" width="100%" /></p>
 
